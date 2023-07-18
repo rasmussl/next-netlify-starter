@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <p className="description">
-          Get started by editing <code>pages/index.js dublicate</code>
+          Duplicate: Get started by editing <code>pages/index.js</code>
         </p>
       </main>
 
